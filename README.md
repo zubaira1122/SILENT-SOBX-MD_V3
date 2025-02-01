@@ -40,13 +40,13 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD_V3&description=🥂❤�
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD_V3?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER⁴³²&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER&color=pink&style=plastic" alt="Developer Badge">
 </p>
 
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD_V3/count.svg" /><br>〖✧SILENT-SOBX-MD-V3✧〗</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD_V3/count.svg" /><br>💛〖✧SILENT-SOBX-MD-V3✧〗💛</div>
 
 ------------
 
