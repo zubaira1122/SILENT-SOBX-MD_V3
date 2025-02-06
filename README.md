@@ -80,7 +80,7 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD_V3&description=🥂❤�
 -----------------
 
 🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)🍾🌸💚**
-**POWERED BY SILENTLOVER**
+***POWERED BY SILENTLOVER🧡💦💥***
 
 ------------------
 
@@ -169,7 +169,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 ------------
  
-<a href="https://vurl.com/7O0Rj" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="http://urly.fi/3Kkn" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 ----------
 
@@ -179,7 +179,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD_V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD_V3"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
